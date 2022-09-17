@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "saini",
+      "email": "saini123@gmail.com",
+      "phone": 7286040724
+    },
+    {
+      "id": 2,
+      "name": "saini",
+      "email": "saini123@gmail.com",
+      "phone": 7286040724
+    },
+    {
+      "id": 3,
+      "name": "saini",
+      "email": "saini123@gmail.com",
+      "phone": 7286040724
+    },
+    {
+      "id": 4,
+      "name": "saini",
+      "email": "saini123@gmail.com",
+      "phone": 7286040724
+    },
+    {
+      "id": 5,
+      "name": "saini",
+      "email": "saini123@gmail.com",
+      "phone": 7286040724
+    },
+    {
+      "id": 6,
+      "name": "saini",
+      "email": "saini123@gmail.com",
+      "phone": 7286040724
+    },
+    {
+      "name": "sai",
+      "email": "saini.venkat@metrolabsservices.com",
+      "phone": 123456,
+      "id": 7
+    },
+    {
+      "name": "sai",
+      "email": "saini.venkat@metrolabsservices.com",
+      "phone": 123456,
+      "id": 8
+    },
+    {
+      "name": "sai",
+      "email": "saini.venkat@metrolabsservices.com",
+      "phone": 123654,
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "id": 10
+    }
+  ],
+  "ratings": [
+    {
+      "sno": 1,
+      "moviename": "Bila",
+      "rating": 3
+    },
+    {
+      "sno": 2,
+      "moviename": "Darling",
+      "rating": 3.5
+    },
+    {
+      "sno": 1,
+      "moviename": "Mirchi",
+      "rating": 3
+    },
+    {
+      "sno": 1,
+      "moviename": "Bahubali",
+      "rating": 4
+    },
+    {
+      "sno": 1,
+      "moviename": "Saaho",
+      "rating": 3
+    },
+    {
+      "sno": 1,
+      "moviename": "Radheshyam",
+      "rating": 3.5
+    }
+  ]
+}
